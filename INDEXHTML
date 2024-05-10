@@ -1,0 +1,120 @@
+<!DOCTYPEhtml >
+< html  lang =" pt " >
+< cabeça >
+    < meta  conjunto de caracteres = " UTF-8 " >
+    < meta  charset = " viewport' = " content = " largura = largura do deerice " >
+    < meta  http-equiv =" Compatível com X-UA " content =" IE=edge " >
+    < meta  name =" viewport " content =" largura = largura do dispositivo, escala inicial = 1,0 " >
+    < título > Documento </ título >
+    < link  rel = " folha de estilo " href = " styles.css " > s
+    < link  rel =" folha de estilo " href =" Reset.css " >
+
+</ cabeça >
+< corpo >
+     < header  class =" cabeçalho " >
+          < div  class =" contêiner " >
+                < input  tipe =" checkbox " id =" menu " class =" container botão " >
+                < img  src =" img/Logo.svg " alt =" Logotipo da Alurabooks "
+class =" container__imagem " >
+          div >
+< corpo >
+        < header  class =" cabeçalho " > < div  class =" container " >
+          < input  type =" checkbox " id =" menu " class =" container__botão " >
+< rótulo  para =" menu " >
+< span  class =" cabeçalho__menu hamburgue container__imagem " > </ span >
+</ rótulo >          
+> < img  src =" img/Logo.svg " alt =" logo da Alurabooks " class =" container__imagem " >
+</div>​​
+< corpo >  
+      < ouvinte  class =" cabeçalho " >
+         < div  class =" contêiner " >
+               < input  type =" checkbox " id =" menu " class =" container__botão " >
+                  < rótulo  para =" menu " >
+                < span  class =" cabeçalho__menu hambúrguer container__imagem " > </ span >    
+                </ rótulo >
+              < ul  class =" lista-menu " >
+        </ul>​​  
+       < img  src =" img/Logo.svg " alt =" logo da Alurabooks " class =" container__imagem " >
+    </div>​​
+    < ul  class =" lista-menu " >
+               < li  class =" lista-menu__titulo " > </ li >
+    </ul>​​
+    < ul  class =" lista-menu " >
+           < li  class =" lista-menu__titulo " > Categorias </ li >     
+                < li  class =" lista-menu__item " >
+           < a  href =" # "   class =" lista-menu__link " > Programação </ a >        
+    </ li > 
+        < li  class =" lista-menu__item " >
+                < a  href =" # " class =" lista-menu__link " > < Front-end</a>​​
+        </ li >
+        < li  class =" lista-menu " >
+                < a  href =" # " class =" lista-menu__link " > Infraestrutura </ a >
+        </ li >
+          < li  class =" lista-menu__item " >
+          < a  href =" # " class =" lista-menu__link " > Negócios </ a > 
+          </ li >
+           < li  class =" lista-menu__item " >
+           < a  href =" # " class =" lista-menu__link " > Design e UX </ a >
+           </ li >
+    </ul>​​
+<h1> livros de alura </h1>​​
+  < corpo >
+
+    < header  class =" cabeçalho " >
+        < div  class =" contêiner " >
+            < input  type =" checkbox " id =" menu " class =" container__botao " >
+            < img  src =" img/Logo.svg " alt =" Logotipo da AluraBooks "
+        class =" container__imagem " >
+
+        </div>​​
+
+            < rótulo  para =" menu " >
+
+                < span  class =" cabeçalho__menu hambúrguer container__imagem " > </ span >
+
+            </ rótulo >
+            < img  src =" img/logo.svg " alt =" Logo da AluraBooks " class =" container__imagem " >
+            </div>​​
+
+                < header  class =" cabeçalho " >
+                < div  class =" contêiner " >
+
+                    < ul  class =" lista-menu " >
+                    </ul>​​
+                 < img  src =" img/logo.svg " alt =" logo da AluraBooks " class =" container__imagem " >
+                </div>​​
+
+
+                < ul  class =" lista-menu " >
+
+                    < li  class =" lista-menu__titulo " > Categorias </ li >
+
+
+            < li  class =" lista-menu__item " >
+                < a   href =" # " class =" lista-menu__link " > < Front-end > </ a >
+
+                < a   href =" # " class =" lista-menu__link " > Infraestrutura </ a >
+
+                < a  href =" # " class =" lista-menu__link " > Negócios </ a >
+
+                < a  href =" # " class =" lista-menu__link " > Designer e UX </ a >
+
+            </ li >
+            </ul>​​
+            </ cabeçalho >
+
+    < seção  classe =" banner " >
+
+    < h2  classe =" banner " >
+
+    < p  class =" banner_titulo " > Já sabe por onde começar? </ h2 >
+
+    < p  class =" banner_texto " > Entre em nosso estado o que precisa para o seu desenvolvimento! </ p >
+
+    < input  type =" search " class =" banner_pesquisa " placeholder =" Qual será sua próxima leitura " >
+
+ </ seção > seleção >
+
+</ corpo >
+
+</html>
